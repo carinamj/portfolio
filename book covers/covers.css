@@ -1,0 +1,42 @@
+body {
+  background-color: #a5d5f9;
+  margin-left: 5%;
+  margin-right: 5%;
+  font-family: Snell Roundhand;
+}
+h1 {
+  font-size: 90px;
+  margin-top: 0px;
+  margin-bottom: 20px;
+  text-align:center;
+}
+h3 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: sans-serif;
+  font-size: 40px;
+  text-align:center;
+}
+p {
+  font-family: sans-serif;
+}
+p.RP1 {
+  text-align:center;
+ 
+}
+p.songs {
+  text-align:center;
+}
+img.imgcenter {
+  width:75%;
+  text-align:center;
+}
+img.imgleft {
+  width:45%;
+  text-align:left;
+}
+img.imgright {
+  width:45%;
+  text-align:right;
+}
+ 
